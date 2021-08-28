@@ -1,4 +1,4 @@
-#Programming Languages:
+#***Programming Languages***:<br/>
 [<img width="25px" alt="ts" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][me]
 [<img width="25px" alt="js" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][me]
 [<img width="25px" alt="go" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" />][me]
@@ -7,7 +7,7 @@
 <br/>
 <br/>
 <br/>
-##My tools:
+##***My tools***:<br/>
 [<img width="25px" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt='Vue3' />][me]
 [<img width="25px" alt="NodeJS" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][me]
 [<img width="25px" alt="npm" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png" />][me]
