@@ -1,5 +1,5 @@
 ![minone's GitHub stats](https://github-readme-stats.vercel.app/api?username=minone-1&show_icons=true&theme=radical)<br/>
-[![My fav. languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minone-1&layout=compact&theme=radical&title='My fav. languages')](https://github.com/anuraghazra/github-readme-stats)
+[![My fav. languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minone-1&layout=compact&theme=radical&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
 
 # ***Programming Languages***:<br/>
 [<img width="25px" alt="ts" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][me]
