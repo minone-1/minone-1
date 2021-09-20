@@ -1,8 +1,8 @@
 ![minone's GitHub stats](https://github-readme-stats.vercel.app/api?username=minone-1&show_icons=true&theme=radical)<br/>
 [![My fav. languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minone-1&layout=compact&theme=radical&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
-<p align="center">
+[<p align="center">]
 [<img width="30px" alt="Kote" align="middle" src="https://github.githubassets.com/images/icons/emoji/octocat.png" />][me]
-</p>
+[</p>]
 # ***Programming Languages***:<br/>
 [<img width="25px" alt="ts" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />][me]
 [<img width="25px" alt="js" align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][me]
