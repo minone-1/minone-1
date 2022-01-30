@@ -1,5 +1,2 @@
-Racist, 
-Sexist, 
-Homophobic, 
-Transphobic 
-Something of dark triad
+I'm minone
+INTP-T with dark triad
