@@ -1,6 +1,4 @@
-VSHT
-=-=-=-=-=-=
-Very_racist
-Sexist 
-Homophobic
-Transphobic
+Racist, 
+Sexist, 
+Homophobic, 
+Transphobic 
